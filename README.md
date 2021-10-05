@@ -1,3 +1,6 @@
+![osy's GitHub stats](https://github-readme-stats.vercel.app/api?username=osy&show_icons=true&theme=radical)
+
+
 <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
 </br>
 <p align="center">
