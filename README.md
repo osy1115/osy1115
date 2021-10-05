@@ -1,4 +1,6 @@
-![osy's GitHub stats](https://github-readme-stats.vercel.app/api?username=osy&show_icons=true&theme=radical)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=osy1115)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 
 <h3 align="center"><b>🛠 Tech Stack 🛠</b></h3>
@@ -11,6 +13,8 @@
 <!-- <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/></a> &nbsp -->
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a> &nbsp 
 <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white"/></a> &nbsp </p>
+
+
 
 <!--
 **osy1115/osy1115** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
